@@ -1,0 +1,2 @@
+Docker
+com.jetbrains.plugins.ini4idea
